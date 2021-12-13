@@ -1,0 +1,25 @@
+.user-button {
+    max-width: 150px;
+    width: 100%;
+    margin: 20px;
+    border-radius:10px;
+    border: 1px solid #2bbcff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.user-reset {
+    max-width: 100px;
+    width: 100%;
+    margin: 20px;
+    border-radius:10px;
+    border: 1px solid #2b99ff;
+    background-color: #ffd82b;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.site-layout .site-layout-background{
+    background:#fff;
+}

@@ -1,0 +1,53 @@
+.register-form {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 6% auto;
+    position: relative;
+    
+    background-color: #f0f0f0;
+    font-size: 25px;
+    font-weight: bold;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    
+    -webkit-box-shadow: 0 0 5px 1px #333;
+    -moz-box-shadow: 0 0 5px 1px #333;
+    box-shadow: 0 0 5px 1px #333;
+}
+
+.register-form-forgot {
+    float: right;
+}
+
+.ant-col-rtl .register-form-forgot {
+    float: right;
+}
+
+.register-form-button {
+    max-width: 100px;
+    width: 100%;
+    margin: 20px;
+    border-radius:10px;
+    border: 1px solid #2bbcff;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.register-form-reset {
+    max-width: 100px;
+    width: 100%;
+    margin: 20px;
+    border-radius:10px;
+    border: 1px solid #2b99ff;
+    background-color: #ffd82b;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.input-text {
+    max-width: 400px;
+}
