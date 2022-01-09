@@ -1,4 +1,5 @@
-# Image Data Annotation
+# ZJU B/S体系软件设计课程大作业
+# Image Data Annotation 数据标注网站
 - document文件夹记录项目开发过程的中期与最终设计报告、测试报告、用户手册、开发心得以及运行指南。
 - src文件夹有前端和后端的文件夹，分别为front-end和backend，是前后端的源代码。
 - video文件夹则保存实现网站的各个功能需求的展示视频。
